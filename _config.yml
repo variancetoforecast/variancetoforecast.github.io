@@ -1,4 +1,3 @@
-name: Variance to forecast: An accountant's journey into Technology
+name: Variance to forecast - An accountant's journey into Technology
 markdown: kramdown
-future: true
 permalink: /blog/:year/:month/:day/:title
