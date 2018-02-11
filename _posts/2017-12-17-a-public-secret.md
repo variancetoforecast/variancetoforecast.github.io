@@ -6,11 +6,11 @@ date: 2017-12-17
 
 After many months of indecision, I finally got around to creating my first blog. I'll spare you the details of why I'm creating a blog, and get straight into the underlying technology powering it. 
 
-##### What is GitHub Pages?
+## What is GitHub Pages?
 
 as
 
-##### Why I chose GitHub Pages and Jekyll over Wordpress
+## Why I chose GitHub Pages and Jekyll over Wordpress
 
 1. as
 2. 
