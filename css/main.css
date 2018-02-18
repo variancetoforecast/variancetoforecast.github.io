@@ -21,7 +21,9 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 3em;
+    font-size: 2em;
+    font-style: normal;
+    font-weight: 700;
     font-family:'Merriweather';
 }
 p {
