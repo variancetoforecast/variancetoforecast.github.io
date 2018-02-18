@@ -21,11 +21,8 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-style: normal;
-    font-weight: 700;
-    font-family:'Merriweather';
-    src: local('Merriweather Bold'), local('Merriweather-Bold'), url(https://fonts.gstatic.com/s/merriweather/v19/u-4n0qyriQwlOrhSvowK_l52xwNZVcf6lvg.woff2) format('woff2');
-  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+    font-size: 2.5em;
+    font-weight: bold;
 }
 p {
     font-size: 1.1em;
