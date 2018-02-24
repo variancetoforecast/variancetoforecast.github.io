@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "4 reasons why I chose GitHub Pages and Jekyll over Wordpress for my first blog"
+title: "Four reasons why I chose GitHub Pages and Jekyll over Wordpress for my first blog"
 date: 2017-12-17
 ---
 
